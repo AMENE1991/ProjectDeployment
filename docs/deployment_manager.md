@@ -21,5 +21,5 @@
 - [Методологии развертывания](https://example.com/deployment-methodologies)
 - [Инструменты для автоматизации развертывания](https://example.com/deployment-tools)
 
-![Развертывание системы](https://example.com/deployment-image.png)
+![Развертывание системы](https://myslide.ru/documents_7/acdb089d1e871299e4c6b7ae0d7b4bd9/img69.jpg)
 
