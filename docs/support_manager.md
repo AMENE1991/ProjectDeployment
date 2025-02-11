@@ -21,5 +21,5 @@
 - [Документация по управлению изменениями](https://example.com/change-management)
 - [Методы мониторинга производительности](https://example.com/performance-monitoring)
 
-![Поддержка пользователей]([https://example.com/support-image.png](https://yandex.ru/images/search?text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA&img_url=http%3A%2F%2Fi.pinimg.com%2Foriginals%2F30%2Fa0%2F2b%2F30a02b9d7517d5b27803c8180d8123c6.jpg&pos=1&rpt=simage&serp_list_type=all&stype=image&lr=62&family=yes&parent-reqid=1739268085612944-2432071926977591146-balancer-l7leveler-kubr-yp-klg-11-BAL&source=serp))
+![Поддержка пользователей](https://yandex.ru/images/search?text=%D0%BA%D0%BE%D1%82%D0%B8%D0%BA&img_url=http%3A%2F%2Fi.pinimg.com%2Foriginals%2F30%2Fa0%2F2b%2F30a02b9d7517d5b27803c8180d8123c6.jpg&pos=1&rpt=simage&serp_list_type=all&stype=image&lr=62&family=yes&parent-reqid=1739268085612944-2432071926977591146-balancer-l7leveler-kubr-yp-klg-11-BAL&source=serp)
 
